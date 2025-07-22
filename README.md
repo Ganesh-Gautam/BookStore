@@ -21,9 +21,10 @@ A modern, responsive React application to explore books and manage your favorite
 -  Frontend : React + Vite
 -  State Management : Redux Toolkit
 -  Styling : Custom CSS
--  API : [FreeAPI.app - Public Books API](https://freeapi.app)
+-  API : [FreeAPI.app - Public Books API](https://api.freeapi.app/#/)
 -  Icons : Lucide React
-
+-  Search: Fuse.js (fuzzy search)
+-  Filters: React Select (dropdown filtering)
 ---
 
   
